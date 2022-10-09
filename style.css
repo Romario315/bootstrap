@@ -1,0 +1,10 @@
+span {
+  margin-top: 5px;
+  background-color: red;
+  display: block;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
